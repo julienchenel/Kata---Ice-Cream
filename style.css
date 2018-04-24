@@ -1,0 +1,22 @@
+/* Positionnement des boules et du cornet */
+
+#boule4,
+#boule3,
+#boule2 {
+    margin-bottom: -20px;
+    left: 200px;
+    width: 50px;
+    position: relative;
+}
+
+#boule1 {
+    fill: red;
+    left: 200px;
+    position: relative;
+}
+
+#cornet img {
+    margin-left: 130px;
+    margin-top: -40px;
+    position: fixed;
+}
